@@ -37,12 +37,6 @@ quart run
 Head over to `localhost:5000` and use model by uploading a picture.
 
 
-## Running the tests
-
-There are no tests 😅🤮🤮🤮🤮🤮
-
-
-
 ## Built With
 
 * [FastAI](https://github.com/fastai/fastai) - Incredible library for quick deep learning
