@@ -1,6 +1,6 @@
 ![Screenshot of main page](./screenshot.png?raw=true "AVPBrainGu")
 
-# AVP BrainGu Challenge
+# AVP
 
 The main goal of this project was to differentiate between images of an 
 Alien or Predator from the movies. This repo shows the notebook and takes it a step further
